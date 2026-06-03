@@ -1,0 +1,21 @@
+employee_id	first_name	last_name	email	department	job_title	salary	hire_date	is_active	phone	manager_id	location	employment_type
+EMP001	Arjun	Krishnamurthy	arjun.krishnamurthy@company.com	Engineering	Senior Software Engineer	95000	2021-03-15	true	+91-9876543210	EMP010	Chennai	FULL_TIME
+EMP002	Priya	Raghavan	priya.raghavan@company.com	Data Engineering	Data Pipeline Engineer	88000	2022-07-01	true	+91-9876543211	EMP011	Bangalore	FULL_TIME
+EMP003	Mohammed	Salim	mohammed.salim@company.com	Engineering	Backend Developer	72000	2023-01-10	true	+91-9876543212	EMP010	Hyderabad	FULL_TIME
+EMP004	Divya	Nair	divya.nair@company.com	Product	Product Manager	105000	2020-09-20	true	+91-9876543213	EMP012	Mumbai	FULL_TIME
+EMP005	Rajan	Pillai	rajan.pillai@company.com	Data Engineering	ETL Developer	78000	2022-11-05	true	+91-9876543214	EMP011	Chennai	FULL_TIME
+EMP006	Sneha	Menon	sneha.menon@company.com	QA	QA Engineer	65000	2023-04-18	true	+91-9876543215	EMP013	Pune	FULL_TIME
+EMP007	Karthik	Subramaniam	karthik.subramaniam@company.com	Engineering	Tech Lead	112000	2019-06-01	true	+91-9876543216	EMP010	Bangalore	FULL_TIME
+EMP008	Lakshmi	Iyer	lakshmi.iyer@company.com	HR	HR Manager	82000	2020-02-14	true	+91-9876543217	EMP014	Chennai	FULL_TIME
+EMP009	Vikram	Pandey	vikram.pandey@company.com	Data Engineering	Data Architect	125000	2018-08-22	true	+91-9876543218	EMP011	Delhi	FULL_TIME
+EMP010	Anitha	Sharma	anitha.sharma@company.com	Engineering	Engineering Manager	135000	2017-04-10	true	+91-9876543219		Bangalore	FULL_TIME
+EMP011	Suresh	Babu	suresh.babu@company.com	Data Engineering	Head of Data	145000	2016-11-30	true	+91-9876543220		Chennai	FULL_TIME
+EMP012	Rohini	Verma	rohini.verma@company.com	Product	VP of Product	160000	2015-07-15	true	+91-9876543221		Mumbai	FULL_TIME
+EMP013	Aravind	Srinivasan	aravind.srinivasan@company.com	QA	QA Lead	80000	2021-09-01	true	+91-9876543222	EMP010	Hyderabad	FULL_TIME
+EMP014	Meena	Chandrasekaran	meena.chandrasekaran@company.com	HR	HR Director	110000	2019-01-07	true	+91-9876543223		Bangalore	FULL_TIME
+EMP015	Dinesh	Rajendran	dinesh.rajendran@company.com	Engineering	Junior Developer	52000	2024-02-01	true	+91-9876543224	EMP007	Chennai	FULL_TIME
+EMP016	Kavitha	Murugan	kavitha.murugan@company.com	Data Engineering	Data Analyst	60000	2023-08-14	true	+91-9876543225	EMP011	Coimbatore	CONTRACT
+EMP017	Sanjay	Gopalan	sanjay.gopalan@company.com	Engineering	DevOps Engineer	90000	2021-12-20	true	+91-9876543226	EMP010	Pune	FULL_TIME
+EMP018	Revathi	Natarajan	revathi.natarajan@company.com	Finance	Finance Analyst	70000	2022-05-09	true	+91-9876543227	EMP014	Chennai	FULL_TIME
+EMP019	Harish	Venkataraman	harish.venkataraman@company.com	Engineering	Software Engineer	76000	2023-06-12	false	+91-9876543228	EMP007	Madurai	FULL_TIME
+EMP020	Pavithra	Sundaram	pavithra.sundaram@company.com	Data Engineering	ML Engineer	98000	2022-03-28	true	+91-9876543229	EMP011	Bangalore	FULL_TIME
